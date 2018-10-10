@@ -1,8 +1,8 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"hi jail jail mononomian lallan mononomian malihini join monomania ion a halma moo nan nonmammalian honan animalillio animalillio anahao minoan aioli on mahalla ha main holia on animalillio hillman milha mil mahimahi man millimol in mail mao ammonia loo manilio animalillio animalillio millman alia him nonillion molilalia alia mojo olona mama limo non aha in aljamia mono nonmammalian mononomian nonmammalian a mahala amman main aljama limnal hill mammilla moll oh nonanimal on mononomial limli aim lama hah nain nonminimal nonmammalian maana mon inaja oil mamaloi aah molman milliohm nonamino loin an lanai animalillio nonmanila oinomania mahmal loam almon oh ilion ammono loon manila mil millman join on nonminimal anni mamma oil animalillio mao amala nonminimal naomi aah mailman halalah mammalia ham mammoni limli nonmammalian on mon join alia almoin immi nonmammalian olona hanna a hah allolalia mom honan ha loin hi animalillio aloin jahannan alanin mia mama nonmammalian monomania omlah haoma loll a animalian animalillio nil ha moo alan nonminimal am animalian mononomian john nonmammalian aloma oh moll nonmammalian mill manana ha aloha hallion aonian hominal nil nonmammalian animalillio loon non moo oh ha amninia monomania allolalia ammonion malihini mammilla mill anhima lion nonminimal mom lain anno limnal malihini mania mini alan ham mammalian moan ha nain main malihini anama milliohm mononomial ha maim join hajji limo mononomial an amain man linalol mall lain monomania mono mamilla amino linalol mom a amini millman a honan mama mononomian jam mononomian honan mia inoma mil jinja aloma halloo nonmammalian maomao an aah ilima lallan mon johnin ooh on nonmammalian mini hi hallman jahannan nonmammalian nomial millimol mammalia alma am ha nallah mononomial nonmammalian annalia oh moon nonanimal mono molilalia manal nonmammalian monoamino loo mammalia ion aah hallan non mammalian ion animalillio nonmammalian nominal anna hah lain anomal animalillio olona hi animalillio nonmammalian",
-ahijlmno
+"hi jail jail mononomian lallan mononomian malihini join monomania ion a halma moo nan nonmammalian honan animalillio animalillio anahao minoan aioli on mahalla ha main holia on animalillio hillman milha mil mahimahi man millimol in mail mao ammonia loo manilio animalillio animalillio millman alia him nonillion molilalia alia mojo olona mama limo non aha in aljamia mono nonmammalian mononomian nonmammalian a mahala amman main aljama limnal hill mammilla moll oh nonanimal on mononomial limli aim lama hah nain nonminimal nonmammalian maana mon inaja oil mamaloi aah molman milliohm nonamino loin an lanai animalillio nonmanila oinomania mahmal loam almon oh ilion ammono loon manila mil millman join on nonminimal anni mamma oil animalillio mao amala nonminimal naomi aah mailman halalah mammalia ham mammoni limli nonmammalian on mon join alia almoin immi nonmammalian olona hanna a hah allolalia mom honan ha loin hi animalillio aloin jahannan alanin mia mama nonmammalian monomania omlah haoma loll a animalian animalillio nil ha moo alan nonminimal am animalian mononomian john nonmammalian aloma oh moll nonmammalian mill manana ha aloha hallion aonian hominal nil nonmammalian animalillio loon non moo oh ha amninia monomania allolalia ammonion malihini mammilla mill anhima lion nonminimal mom lain anno limnal malihini mania mini alan ham mammalian moan ha nain main malihini anama milliohm mononomial ha maim join hajji limo mononomial an amain man linalol mall lain monomania mono mamilla amino linalol mom a amini millman a honan mama mononomian jam mononomian honan mia inoma mil jinja aloma halloo nonmammalian maomao an aah ilima lallan mon johnin ooh on nonmammalian mini hi hallman jahannan nonmammalian nomial millimol mammalia alma am ha nallah mononomial nonmammalian annalia oh moontain nonanimal mono molilalia manal nonmammalian monoamino loo mammalia ion aah hallan non mammalian ion animalillio nonmammalian nominal anna hah lain anomal animalillio olona hi animalillio nonmammalian",
+ahijtlmnopqdb
 );
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
@@ -2454,15 +2454,60 @@ unicode = 01FD;
 },
 {
 glyphname = b;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:32:07 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"75 0 LINE",
+"170 0 LINE",
+"170 120 LINE",
+"154 96 LINE",
+"197 23 OFFCURVE",
+"264 -15 OFFCURVE",
+"356 -15 CURVE SMOOTH",
+"534 -15 OFFCURVE",
+"629 125 OFFCURVE",
+"629 307 CURVE SMOOTH",
+"629 487 OFFCURVE",
+"534 625 OFFCURVE",
+"373 625 CURVE SMOOTH",
+"275 625 OFFCURVE",
+"195 575 OFFCURVE",
+"149 487 CURVE",
+"170 499 LINE",
+"170 800 LINE",
+"75 800 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"164 456 OFFCURVE",
+"239 550 OFFCURVE",
+"346 550 CURVE SMOOTH",
+"450 550 OFFCURVE",
+"529 456 OFFCURVE",
+"529 307 CURVE SMOOTH",
+"529 155 OFFCURVE",
+"450 60 OFFCURVE",
+"346 60 CURVE SMOOTH",
+"239 60 OFFCURVE",
+"164 156 OFFCURVE",
+"164 307 CURVE SMOOTH"
+);
+}
+);
+width = 669;
 }
 );
 leftKerningGroup = l;
+leftMetricsKey = l;
 rightKerningGroup = o;
+rightMetricsKey = "=p";
 unicode = 0062;
 },
 {
@@ -2565,16 +2610,65 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:32:14 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"499 800 LINE",
+"499 499 LINE",
+"520 487 LINE",
+"474 575 OFFCURVE",
+"394 625 OFFCURVE",
+"296 625 CURVE SMOOTH",
+"135 625 OFFCURVE",
+"40 487 OFFCURVE",
+"40 307 CURVE SMOOTH",
+"40 125 OFFCURVE",
+"135 -15 OFFCURVE",
+"313 -15 CURVE SMOOTH",
+"405 -15 OFFCURVE",
+"472 23 OFFCURVE",
+"515 96 CURVE",
+"499 120 LINE",
+"504 80 OFFCURVE",
+"508 34 OFFCURVE",
+"514 0 CURVE",
+"608 0 LINE",
+"599 63 OFFCURVE",
+"594 115 OFFCURVE",
+"594 183 CURVE",
+"594 800 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"505 156 OFFCURVE",
+"430 60 OFFCURVE",
+"323 60 CURVE SMOOTH",
+"219 60 OFFCURVE",
+"140 155 OFFCURVE",
+"140 307 CURVE SMOOTH",
+"140 456 OFFCURVE",
+"219 550 OFFCURVE",
+"323 550 CURVE SMOOTH",
+"430 550 OFFCURVE",
+"505 456 OFFCURVE",
+"505 307 CURVE SMOOTH"
+);
+}
+);
+width = 658;
 }
 );
 leftKerningGroup = o;
-leftMetricsKey = "=o";
+leftMetricsKey = "=q";
 rightKerningGroup = l;
+rightMetricsKey = "=a";
 unicode = 0064;
 },
 {
@@ -3112,7 +3206,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2018-10-09 20:40:34 +0000";
+lastChange = "2018-10-10 21:00:16 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
@@ -3121,17 +3215,19 @@ paths = (
 closed = 1;
 nodes = (
 "89 -31 LINE SMOOTH",
-"89 -98 OFFCURVE",
-"73 -115 OFFCURVE",
-"9 -115 CURVE SMOOTH",
-"-25 -115 LINE",
-"-25 -200 LINE",
+"89 -96 OFFCURVE",
+"73 -114 OFFCURVE",
+"9 -114 CURVE SMOOTH",
+"-65 -114 LINE",
+"-65 -200 LINE",
 "25 -200 LINE SMOOTH",
 "127 -200 OFFCURVE",
 "184 -118 OFFCURVE",
 "184 29 CURVE SMOOTH",
 "184 610 LINE",
-"89 610 LINE"
+"89 610 LINE",
+"127 -200 OFFCURVE",
+"25 -200 LINE SMOOTH"
 );
 },
 {
@@ -3750,11 +3846,99 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:23:33 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"70 -200 LINE",
+"165 -200 LINE",
+"165 90 LINE",
+"144 65 LINE",
+"190 14 OFFCURVE",
+"250 -15 OFFCURVE",
+"331 -15 CURVE SMOOTH",
+"499 -15 OFFCURVE",
+"604 115 OFFCURVE",
+"604 307 CURVE SMOOTH",
+"604 497 OFFCURVE",
+"499 625 OFFCURVE",
+"331 625 CURVE SMOOTH",
+"250 625 OFFCURVE",
+"190 596 OFFCURVE",
+"144 546 CURVE",
+"165 520 LINE",
+"165 610 LINE",
+"70 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"159 456 OFFCURVE",
+"219 550 OFFCURVE",
+"331 550 CURVE SMOOTH",
+"440 550 OFFCURVE",
+"504 456 OFFCURVE",
+"504 307 CURVE SMOOTH",
+"504 155 OFFCURVE",
+"440 60 OFFCURVE",
+"331 60 CURVE SMOOTH",
+"219 60 OFFCURVE",
+"159 156 OFFCURVE",
+"159 307 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"70 -200 LINE",
+"165 -200 LINE",
+"165 120 LINE",
+"149 96 LINE",
+"192 23 OFFCURVE",
+"259 -15 OFFCURVE",
+"351 -15 CURVE SMOOTH",
+"529 -15 OFFCURVE",
+"624 125 OFFCURVE",
+"624 307 CURVE SMOOTH",
+"624 487 OFFCURVE",
+"529 625 OFFCURVE",
+"368 625 CURVE SMOOTH",
+"270 625 OFFCURVE",
+"190 575 OFFCURVE",
+"144 487 CURVE",
+"165 499 LINE",
+"165 610 LINE",
+"70 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"159 456 OFFCURVE",
+"234 550 OFFCURVE",
+"341 550 CURVE SMOOTH",
+"445 550 OFFCURVE",
+"524 456 OFFCURVE",
+"524 307 CURVE SMOOTH",
+"524 155 OFFCURVE",
+"445 60 OFFCURVE",
+"341 60 CURVE SMOOTH",
+"234 60 OFFCURVE",
+"159 156 OFFCURVE",
+"159 307 CURVE SMOOTH"
+);
+}
+);
+width = 664;
 }
 );
 leftKerningGroup = i;
@@ -3780,16 +3964,60 @@ unicode = 00FE;
 },
 {
 glyphname = q;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:28:00 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"499 610 LINE",
+"499 499 LINE",
+"520 487 LINE",
+"474 575 OFFCURVE",
+"394 625 OFFCURVE",
+"296 625 CURVE SMOOTH",
+"135 625 OFFCURVE",
+"40 487 OFFCURVE",
+"40 307 CURVE SMOOTH",
+"40 125 OFFCURVE",
+"135 -15 OFFCURVE",
+"313 -15 CURVE SMOOTH",
+"405 -15 OFFCURVE",
+"472 23 OFFCURVE",
+"515 96 CURVE",
+"499 120 LINE",
+"499 -200 LINE",
+"594 -200 LINE",
+"594 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"505 156 OFFCURVE",
+"430 60 OFFCURVE",
+"323 60 CURVE SMOOTH",
+"219 60 OFFCURVE",
+"140 155 OFFCURVE",
+"140 307 CURVE SMOOTH",
+"140 456 OFFCURVE",
+"219 550 OFFCURVE",
+"323 550 CURVE SMOOTH",
+"430 550 OFFCURVE",
+"505 456 OFFCURVE",
+"505 307 CURVE SMOOTH"
+);
+}
+);
+width = 669;
 }
 );
 leftKerningGroup = o;
 leftMetricsKey = "=o";
 rightKerningGroup = q;
+rightMetricsKey = "=l";
 unicode = 0071;
 },
 {
@@ -3977,11 +4205,42 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:08:13 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"147 529 LINE",
+"122 554 LINE",
+"122 169 LINE SMOOTH",
+"122 61 OFFCURVE",
+"179 0 OFFCURVE",
+"281 0 CURVE SMOOTH",
+"421 0 LINE",
+"421 86 LINE",
+"297 86 LINE SMOOTH",
+"233 86 OFFCURVE",
+"217 104 OFFCURVE",
+"217 169 CURVE SMOOTH",
+"217 554 LINE",
+"192 529 LINE",
+"368 529 LINE",
+"368 610 LINE",
+"192 610 LINE",
+"217 585 LINE",
+"217 750 LINE",
+"122 750 LINE",
+"122 585 LINE",
+"147 610 LINE",
+"20 610 LINE",
+"20 529 LINE"
+);
+}
+);
+width = 436;
 }
 );
 leftKerningGroup = t;
@@ -6884,13 +7143,14 @@ rightMetricsKey = "=guisingright";
 },
 {
 glyphname = space;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:28:42 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+width = 245;
 }
 );
+widthMetricsKey = i;
 unicode = 0020;
 },
 {
