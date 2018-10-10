@@ -1,8 +1,14 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"hi jail jail mononomian lallan mononomian malihini join monomania ion a halma moo nan nonmammalian honan animalillio animalillio anahao minoan aioli on mahalla ha main holia on animalillio hillman milha mil mahimahi man millimol in mail mao ammonia loo manilio animalillio animalillio millman alia him nonillion molilalia alia mojo olona mama limo non aha in aljamia mono nonmammalian mononomian nonmammalian a mahala amman main aljama limnal hill mammilla moll oh nonanimal on mononomial limli aim lama hah nain nonminimal nonmammalian maana mon inaja oil mamaloi aah molman milliohm nonamino loin an lanai animalillio nonmanila oinomania mahmal loam almon oh ilion ammono loon manila mil millman join on nonminimal anni mamma oil animalillio mao amala nonminimal naomi aah mailman halalah mammalia ham mammoni limli nonmammalian on mon join alia almoin immi nonmammalian olona hanna a hah allolalia mom honan ha loin hi animalillio aloin jahannan alanin mia mama nonmammalian monomania omlah haoma loll a animalian animalillio nil ha moo alan nonminimal am animalian mononomian john nonmammalian aloma oh moll nonmammalian mill manana ha aloha hallion aonian hominal nil nonmammalian animalillio loon non moo oh ha amninia monomania allolalia ammonion malihini mammilla mill anhima lion nonminimal mom lain anno limnal malihini mania mini alan ham mammalian moan ha nain main malihini anama milliohm mononomial ha maim join hajji limo mononomial an amain man linalol mall lain monomania mono mamilla amino linalol mom a amini millman a honan mama mononomian jam mononomian honan mia inoma mil jinja aloma halloo nonmammalian maomao an aah ilima lallan mon johnin ooh on nonmammalian mini hi hallman jahannan nonmammalian nomial millimol mammalia alma am ha nallah mononomial nonmammalian annalia oh moontain nonanimal mono molilalia manal nonmammalian monoamino loo mammalia ion aah hallan non mammalian ion animalillio nonmammalian nominal anna hah lain anomal animalillio olona hi animalillio nonmammalian",
-ahijtlmnopqdb
+"siss sai noint oos onst onto ass ninon oont asana",
+c,
+s,
+"rhinoliths bilabial talipats tartan trill sbirro arris noon battalias morn allomorph mastodon parton omophorions amnion lair spin plaits rhomboid naiads posits bobs splash plim ministrations monomials hallan larn marshalships paoli",
+abdhijlmnopqrst,
+og,
+j,
+t
 );
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
@@ -2512,7 +2518,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 22:04:33 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
@@ -2919,16 +2925,17 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 22:25:52 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+width = 535;
 }
 );
 leftKerningGroup = o;
 leftMetricsKey = "=o";
 rightKerningGroup = g;
+rightMetricsKey = o;
 unicode = 0067;
 },
 {
@@ -3226,8 +3233,8 @@ nodes = (
 "184 29 CURVE SMOOTH",
 "184 610 LINE",
 "89 610 LINE",
-"127 -200 OFFCURVE",
-"25 -200 LINE SMOOTH"
+"89 610 LINE",
+"184 610 LINE"
 );
 },
 {
@@ -4022,15 +4029,61 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 21:37:41 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"200 587 OFFCURVE",
+"274 625 OFFCURVE",
+"349 625 CURVE SMOOTH",
+"430 625 LINE",
+"430 541 LINE",
+"322 541 LINE SMOOTH",
+"250 541 OFFCURVE",
+"169 482 OFFCURVE",
+"169 325 CURVE SMOOTH",
+"169 0 LINE",
+"75 0 LINE",
+"75 610 LINE",
+"169 610 LINE",
+"169 499 LINE",
+"149 487 LINE"
+);
+}
+);
+};
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 574 OFFCURVE",
+"254 610 OFFCURVE",
+"379 610 CURVE SMOOTH",
+"430 610 LINE",
+"430 524 LINE",
+"352 524 LINE SMOOTH",
+"250 524 OFFCURVE",
+"169 469 OFFCURVE",
+"169 315 CURVE SMOOTH",
+"169 0 LINE",
+"75 0 LINE",
+"75 610 LINE",
+"169 610 LINE",
+"169 489 LINE",
+"149 477 LINE"
+);
+}
+);
+width = 445;
 }
 );
 leftKerningGroup = i;
-leftMetricsKey = "=i";
+leftMetricsKey = "=n";
 rightKerningGroup = r;
 unicode = 0072;
 },
@@ -4093,11 +4146,103 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-10 22:14:46 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"440 -15 OFFCURVE",
+"540 54 OFFCURVE",
+"537 170 CURVE SMOOTH",
+"535 259 OFFCURVE",
+"459 338 OFFCURVE",
+"299 351 CURVE SMOOTH",
+"186 360 OFFCURVE",
+"141 392 OFFCURVE",
+"141 446 CURVE SMOOTH",
+"141 495 OFFCURVE",
+"193 549 OFFCURVE",
+"285 549 CURVE SMOOTH",
+"378 549 OFFCURVE",
+"430 484 OFFCURVE",
+"430 401 CURVE",
+"524 401 LINE",
+"524 544 OFFCURVE",
+"419 625 OFFCURVE",
+"285 625 CURVE SMOOTH",
+"151 625 OFFCURVE",
+"36 547 OFFCURVE",
+"36 440 CURVE SMOOTH",
+"36 353 OFFCURVE",
+"110 280 OFFCURVE",
+"264 267 CURVE SMOOTH",
+"393 256 OFFCURVE",
+"432 213 OFFCURVE",
+"432 161 CURVE SMOOTH",
+"432 102 OFFCURVE",
+"370 62 OFFCURVE",
+"288 62 CURVE SMOOTH",
+"205 62 OFFCURVE",
+"137 117 OFFCURVE",
+"137 212 CURVE",
+"35 212 LINE",
+"35 82 OFFCURVE",
+"134 -15 OFFCURVE",
+"287 -15 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"433 -15 OFFCURVE",
+"532 54 OFFCURVE",
+"530 170 CURVE SMOOTH",
+"528 269 OFFCURVE",
+"450 343 OFFCURVE",
+"299 353 CURVE SMOOTH",
+"186 360 OFFCURVE",
+"135 392 OFFCURVE",
+"135 449 CURVE SMOOTH",
+"135 512 OFFCURVE",
+"198 549 OFFCURVE",
+"279 549 CURVE SMOOTH",
+"376 549 OFFCURVE",
+"430 484 OFFCURVE",
+"430 401 CURVE",
+"524 401 LINE",
+"524 544 OFFCURVE",
+"414 625 OFFCURVE",
+"275 625 CURVE SMOOTH",
+"122 625 OFFCURVE",
+"40 534 OFFCURVE",
+"40 437 CURVE SMOOTH",
+"40 353 OFFCURVE",
+"109 277 OFFCURVE",
+"273 269 CURVE SMOOTH",
+"392 263 OFFCURVE",
+"432 213 OFFCURVE",
+"432 161 CURVE SMOOTH",
+"432 102 OFFCURVE",
+"376 62 OFFCURVE",
+"294 62 CURVE SMOOTH",
+"211 62 OFFCURVE",
+"137 117 OFFCURVE",
+"137 212 CURVE",
+"42 212 LINE",
+"42 82 OFFCURVE",
+"137 -15 OFFCURVE",
+"290 -15 CURVE SMOOTH"
+);
+}
+);
+width = 560;
 }
 );
 leftKerningGroup = s;
