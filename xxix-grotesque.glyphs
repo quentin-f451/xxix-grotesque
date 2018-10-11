@@ -4,7 +4,9 @@ DisplayStrings = (
 t,
 "nfn\012ofo\012f",
 f,
-"firmaments foreplanned referent folioles photoflood frillier fresnel affirmant defier modifiable effs afforests infolds foaled pilaf defense fearlessness defile fid affablest transferrers oneself deflorates federalisations fiats friars refloated briefs affrap forenamed profferer filfot fiddliest reformations sifters definienda belfried miffiest deferrable fleetness befinned perfoliation fishermen threadfin fend flattish mofettes forborne preferrer aefald"
+"firmaments foreplanned referent folioles photoflood frillier fresnel affirmant defier modifiable effs afforests infolds foaled pilaf defense fearlessness defile fid affablest transferrers oneself deflorates federalisations fiats friars refloated briefs affrap forenamed profferer filfot fiddliest reformations sifters definienda belfried miffiest deferrable fleetness befinned perfoliation fishermen threadfin fend flattish mofettes forborne preferrer aefald",
+n,
+u
 );
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
@@ -4563,11 +4565,39 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-11 22:12:39 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"442 23 OFFCURVE",
+"360 -15 OFFCURVE",
+"278 -15 CURVE SMOOTH",
+"140 -15 OFFCURVE",
+"75 83 OFFCURVE",
+"75 226 CURVE SMOOTH",
+"75 610 LINE",
+"169 610 LINE",
+"169 244 LINE SMOOTH",
+"169 126 OFFCURVE",
+"209 69 OFFCURVE",
+"305 69 CURVE SMOOTH",
+"386 69 OFFCURVE",
+"478 128 OFFCURVE",
+"478 285 CURVE SMOOTH",
+"478 610 LINE",
+"572 610 LINE",
+"572 0 LINE",
+"478 0 LINE",
+"478 111 LINE",
+"498 123 LINE"
+);
+}
+);
+width = 642;
 }
 );
 leftKerningGroup = u;
