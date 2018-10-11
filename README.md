@@ -22,7 +22,7 @@
 
 **10.10.18**
 
-+ Draw c r s
++ Draw r s
 
 **10.11.18**
 
@@ -33,6 +33,8 @@
 + First reviews
 
 + Modify t
+
++ Draw e k f u 
 
 <hr />
 
