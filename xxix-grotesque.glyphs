@@ -1,14 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"siss sai noint oos onst onto ass ninon oont asana",
-c,
-s,
-"rhinoliths bilabial talipats tartan trill sbirro arris noon battalias morn allomorph mastodon parton omophorions amnion lair spin plaits rhomboid naiads posits bobs splash plim ministrations monomials hallan larn marshalships paoli",
-abdhijlmnopqrst,
-og,
-j,
-t
+"nen\012oeo\012e"
 );
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
@@ -2730,11 +2723,47 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-11 22:00:01 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"576 295 LINE",
+"600 489 OFFCURVE",
+"496 625 OFFCURVE",
+"326 625 CURVE SMOOTH",
+"145 625 OFFCURVE",
+"40 497 OFFCURVE",
+"40 307 CURVE SMOOTH",
+"40 115 OFFCURVE",
+"147 -15 OFFCURVE",
+"323 -15 CURVE SMOOTH",
+"469 -15 OFFCURVE",
+"569 76 OFFCURVE",
+"580 197 CURVE",
+"484 197 LINE",
+"473 123 OFFCURVE",
+"417 61 OFFCURVE",
+"322 61 CURVE SMOOTH",
+"202 61 OFFCURVE",
+"138 164 OFFCURVE",
+"138 309 CURVE SMOOTH",
+"138 464 OFFCURVE",
+"203 550 OFFCURVE",
+"326 550 CURVE SMOOTH",
+"418 550 OFFCURVE",
+"496 476 OFFCURVE",
+"482 313 CURVE",
+"524 365 LINE",
+"120 365 LINE",
+"117 295 LINE"
+);
+}
+);
+width = 614;
 }
 );
 leftKerningGroup = o;
