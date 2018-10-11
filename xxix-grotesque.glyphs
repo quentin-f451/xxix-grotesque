@@ -1,5 +1,11 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+t,
+"nfn\012ofo\012f",
+f,
+"firmaments foreplanned referent folioles photoflood frillier fresnel affirmant defier modifiable effs afforests infolds foaled pilaf defense fearlessness defile fid affablest transferrers oneself deflorates federalisations fiats friars refloated briefs affrap forenamed profferer filfot fiddliest reformations sifters definienda belfried miffiest deferrable fleetness befinned perfoliation fishermen threadfin fend flattish mofettes forborne preferrer aefald"
+);
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
 fontMaster = (
@@ -2938,14 +2944,46 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-11 22:10:54 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 530 LINE",
+"147 530 LINE",
+"122 555 LINE",
+"122 0 LINE",
+"217 0 LINE",
+"217 555 LINE",
+"192 530 LINE",
+"358 530 LINE",
+"358 611 LINE",
+"192 611 LINE",
+"217 586 LINE",
+"217 631 LINE SMOOTH",
+"217 698 OFFCURVE",
+"233 717 OFFCURVE",
+"297 717 CURVE SMOOTH",
+"411 717 LINE",
+"411 800 LINE",
+"281 800 LINE SMOOTH",
+"179 800 OFFCURVE",
+"122 739 OFFCURVE",
+"122 631 CURVE SMOOTH",
+"122 586 LINE",
+"147 611 LINE",
+"20 611 LINE"
+);
+}
+);
+width = 396;
 }
 );
 leftKerningGroup = f;
+leftMetricsKey = "=t";
 rightKerningGroup = f;
 unicode = 0066;
 },
