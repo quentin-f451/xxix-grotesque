@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"nen\012oeo\012e"
-);
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
 fontMaster = (
@@ -3284,11 +3281,40 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-11 22:08:01 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"75 0 LINE",
+"170 0 LINE",
+"170 800 LINE",
+"75 800 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"101 199 LINE",
+"99 69 LINE",
+"569 610 LINE",
+"446 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"469 0 LINE",
+"581 0 LINE",
+"330 401 LINE",
+"273 320 LINE"
+);
+}
+);
+width = 586;
 }
 );
 leftKerningGroup = l;
