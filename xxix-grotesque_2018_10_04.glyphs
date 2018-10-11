@@ -4348,7 +4348,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2018-10-10 21:08:13 +0000";
+lastChange = "2018-10-11 16:37:42 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
@@ -4362,8 +4362,8 @@ nodes = (
 "122 61 OFFCURVE",
 "179 0 OFFCURVE",
 "281 0 CURVE SMOOTH",
-"421 0 LINE",
-"421 86 LINE",
+"411 0 LINE",
+"411 86 LINE",
 "297 86 LINE SMOOTH",
 "233 86 OFFCURVE",
 "217 104 OFFCURVE",
