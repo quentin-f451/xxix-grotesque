@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+ec
+);
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
 fontMaster = (
@@ -2508,10 +2511,43 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-10-10 22:04:33 +0000";
+lastChange = "2018-10-22 17:45:10 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
+paths = (
+{
+closed = 1;
+nodes = (
+"580 385 LINE",
+"568 530 OFFCURVE",
+"467 625 OFFCURVE",
+"326 625 CURVE SMOOTH",
+"145 625 OFFCURVE",
+"40 497 OFFCURVE",
+"40 307 CURVE SMOOTH",
+"40 115 OFFCURVE",
+"147 -15 OFFCURVE",
+"323 -15 CURVE SMOOTH",
+"469 -15 OFFCURVE",
+"569 73 OFFCURVE",
+"580 207 CURVE",
+"484 207 LINE",
+"473 126 OFFCURVE",
+"417 61 OFFCURVE",
+"322 61 CURVE SMOOTH",
+"202 61 OFFCURVE",
+"138 164 OFFCURVE",
+"138 309 CURVE SMOOTH",
+"138 464 OFFCURVE",
+"203 550 OFFCURVE",
+"326 550 CURVE SMOOTH",
+"402 550 OFFCURVE",
+"474 498 OFFCURVE",
+"484 385 CURVE"
+);
+}
+);
 width = 600;
 }
 );
