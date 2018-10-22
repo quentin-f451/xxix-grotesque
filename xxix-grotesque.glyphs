@@ -3,7 +3,8 @@
 DisplayStrings = (
 og,
 r,
-g
+"nng   gnn   ngn\012oog   goo   ogo\012g",
+"nonpathogenic raged quersprungs forjudges therbligs greenbottles peising trough chronologic apprenticing scriggling epistemologist grumpiness liguloid deboning outings stanged progresses peculiarising subrogated jargonisations unsensing cannoning comminating depositing gremials geordie disintegrating entitling regulators crosscutting digastric quadringenaries minuting megabuck aspergillosis hidling untinning ingoing boardsailing scapegraces opening snogs ashlarings greisenise gushing planing gentrice garrotte emmenagogues"
 );
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
@@ -3021,7 +3022,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-10-22 18:27:26 +0000";
+lastChange = "2018-10-22 22:42:16 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
@@ -3029,60 +3030,106 @@ paths = (
 {
 closed = 1;
 nodes = (
-"398 185 OFFCURVE",
-"475 276 OFFCURVE",
-"475 406 CURVE SMOOTH",
-"475 542 OFFCURVE",
-"398 625 OFFCURVE",
-"274 625 CURVE SMOOTH",
-"152 625 OFFCURVE",
-"73 542 OFFCURVE",
-"73 406 CURVE SMOOTH",
-"73 276 OFFCURVE",
-"152 185 OFFCURVE",
-"274 185 CURVE SMOOTH"
+"416 163 OFFCURVE",
+"501 259 OFFCURVE",
+"501 396 CURVE SMOOTH",
+"501 539 OFFCURVE",
+"416 627 OFFCURVE",
+"279 627 CURVE SMOOTH",
+"145 627 OFFCURVE",
+"58 539 OFFCURVE",
+"58 396 CURVE SMOOTH",
+"58 259 OFFCURVE",
+"145 163 OFFCURVE",
+"279 163 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"204 252 OFFCURVE",
-"160 313 OFFCURVE",
-"160 406 CURVE SMOOTH",
-"160 504 OFFCURVE",
-"204 557 OFFCURVE",
-"274 557 CURVE SMOOTH",
-"346 557 OFFCURVE",
-"388 504 OFFCURVE",
-"388 406 CURVE SMOOTH",
-"388 313 OFFCURVE",
-"346 252 OFFCURVE",
-"274 252 CURVE SMOOTH"
+"200 234 OFFCURVE",
+"151 298 OFFCURVE",
+"151 396 CURVE SMOOTH",
+"151 499 OFFCURVE",
+"200 555 OFFCURVE",
+"279 555 CURVE SMOOTH",
+"361 555 OFFCURVE",
+"408 499 OFFCURVE",
+"408 396 CURVE SMOOTH",
+"408 298 OFFCURVE",
+"361 234 OFFCURVE",
+"279 234 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"429 525 OFFCURVE",
-"446 534 OFFCURVE",
-"492 534 CURVE SMOOTH",
-"560 534 LINE",
-"560 610 LINE",
-"509 610 LINE SMOOTH",
-"444 610 OFFCURVE",
-"416 576 OFFCURVE",
-"384 540 CURVE",
-"412 500 LINE"
+"465 525 OFFCURVE",
+"482 534 OFFCURVE",
+"528 534 CURVE SMOOTH",
+"596 534 LINE",
+"596 610 LINE",
+"545 610 LINE SMOOTH",
+"480 610 OFFCURVE",
+"452 576 OFFCURVE",
+"420 540 CURVE",
+"448 500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 0 CURVE SMOOTH",
+"422 0 LINE SMOOTH",
+"489 0 OFFCURVE",
+"527 -22 OFFCURVE",
+"527 -61 CURVE SMOOTH",
+"527 -99 OFFCURVE",
+"489 -121 OFFCURVE",
+"422 -121 CURVE SMOOTH",
+"226 -121 LINE SMOOTH",
+"149 -121 OFFCURVE",
+"125 -81 OFFCURVE",
+"125 -50 CURVE SMOOTH",
+"125 -5 OFFCURVE",
+"155 22 OFFCURVE",
+"193 43 CURVE",
+"132 44 LINE",
+"88 22 OFFCURVE",
+"45 -22 OFFCURVE",
+"45 -82 CURVE SMOOTH",
+"45 -142 OFFCURVE",
+"96 -200 OFFCURVE",
+"244 -200 CURVE SMOOTH",
+"422 -200 LINE SMOOTH",
+"547 -200 OFFCURVE",
+"618 -149 OFFCURVE",
+"618 -59 CURVE SMOOTH",
+"618 25 OFFCURVE",
+"547 75 OFFCURVE",
+"422 78 CURVE SMOOTH",
+"226 77 LINE SMOOTH",
+"167 80 OFFCURVE",
+"143 111 OFFCURVE",
+"143 145 CURVE SMOOTH",
+"143 172 OFFCURVE",
+"170 198 OFFCURVE",
+"213 198 CURVE",
+"178 230 LINE",
+"178 227 LINE",
+"118 212 OFFCURVE",
+"61 181 OFFCURVE",
+"62 118 CURVE SMOOTH",
+"63 29 OFFCURVE",
+"152 0 OFFCURVE"
 );
 }
 );
-width = 535;
+width = 608;
 }
 );
 leftKerningGroup = o;
-leftMetricsKey = "=o";
 rightKerningGroup = g;
-rightMetricsKey = o;
 unicode = 0067;
 },
 {
