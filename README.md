@@ -36,6 +36,10 @@
 
 + Draw e k f u 
 
+**10.22.18**
+
++ Draw c g v w
+
 <hr />
 
 ## To do
