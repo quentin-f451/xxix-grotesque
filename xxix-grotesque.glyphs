@@ -4924,17 +4924,38 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-22 22:52:29 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"196 0 LINE",
+"292 0 LINE",
+"448 544 LINE",
+"418 544 LINE",
+"574 0 LINE",
+"670 0 LINE",
+"861 610 LINE",
+"761 610 LINE",
+"607 65 LINE",
+"637 65 LINE",
+"483 610 LINE",
+"383 610 LINE",
+"229 65 LINE",
+"259 65 LINE",
+"105 610 LINE",
+"5 610 LINE"
+);
+}
+);
+width = 866;
 }
 );
 leftKerningGroup = v;
-leftMetricsKey = "=v";
 rightKerningGroup = v;
-rightMetricsKey = "=v";
 unicode = 0077;
 },
 {
