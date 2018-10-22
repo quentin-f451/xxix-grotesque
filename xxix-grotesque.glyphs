@@ -1,11 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-og,
-r,
-"nng   gnn   ngn\012oog   goo   ogo\012g",
-"nonpathogenic raged quersprungs forjudges therbligs greenbottles peising trough chronologic apprenticing scriggling epistemologist grumpiness liguloid deboning outings stanged progresses peculiarising subrogated jargonisations unsensing cannoning comminating depositing gremials geordie disintegrating entitling regulators crosscutting digastric quadringenaries minuting megabuck aspergillosis hidling untinning ingoing boardsailing scapegraces opening snogs ashlarings greisenise gushing planing gentrice garrotte emmenagogues"
-);
 date = "2018-09-27 20:33:27 +0000";
 familyName = "XXIX Grostesque";
 fontMaster = (
@@ -4902,11 +4896,26 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2018-10-05 21:36:30 +0000";
+lastChange = "2018-10-22 22:48:47 +0000";
 layers = (
 {
 layerId = "7ABB4463-F536-4E35-BA78-CBE550C7BEBE";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"236 0 LINE",
+"332 0 LINE",
+"553 610 LINE",
+"453 610 LINE",
+"267 68 LINE",
+"301 68 LINE",
+"115 610 LINE",
+"15 610 LINE"
+);
+}
+);
+width = 568;
 }
 );
 leftKerningGroup = v;
