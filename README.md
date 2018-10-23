@@ -43,6 +43,14 @@
 **10.23.18**
 
 + Draw y
++ Change repo folders
++ Print first pdf
+
+  ```
+  [PDF 181023](40-TEST/_archive/jpg/test-xxixgrot-181023.jpg)
+  ```
+
+  
 
 <hr />
 
