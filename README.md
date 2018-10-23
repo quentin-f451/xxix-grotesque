@@ -46,9 +46,7 @@
 + Change repo folders
 + Print first pdf
 
-  ```
-  [PDF 181023](40-TEST/_archive/jpg/test-xxixgrot-181023.jpg)
-  ```
+  ![JPG 181023](40-TEST/_archive/jpg/test-xxixgrot-181023.jpg)
 
   
 
