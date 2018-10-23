@@ -40,6 +40,10 @@
 
 + Draw c g v w
 
+**10.23.18**
+
++ Draw y
+
 <hr />
 
 ## To do
