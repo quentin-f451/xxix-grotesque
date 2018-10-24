@@ -62,6 +62,38 @@
 + Change u curve and joint
 + Change a k G Q joints
 
+**10.24.18**
+
++ Correct a b c d e p q
+
++ Correct s curves and terminals
+
++ Correct g ear and upper curves
+
++ Correct g
+
++ Correct a.alt i.alt j.alt
+
++ Delete g.alt
+
++ Correct g weight and SB
+
++ Draw A B C K J M P R T U V
+
++ Correct A width
+
++ Add ink traps on v w x y
+
++ Correct G spur
+
++ Draw period ellipsis comma
+
++ Draw period.alt ellipsis.alt and update OT functions
+
++ Change space width
+
++ Print second pdf![JPG 181024](40-TEST/_archive/jpg/test-xxixgrot-181024.jpg)
+
 <hr />
 
 ## To do
