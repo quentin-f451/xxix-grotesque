@@ -94,6 +94,26 @@
 
 + Print second pdf![JPG 181024](40-TEST/_archive/jpg/test-xxixgrot-181024.jpg)
 
+**10.25.18**
+
++ Change width of some letters
+
++ Add ink traps on k and K
+
++ Change I
+
++ Correct B C G P R
+
++ Correct f
+
++ Draw D N S W Z
+
++ Correct O (and linked) SB 
+
++ Correct k z K M N ink traps
+
++ +5 on uppercase SBL and SBR
+
 <hr />
 
 ## To do
