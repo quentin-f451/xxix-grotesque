@@ -114,6 +114,12 @@
 
 + +5 on uppercase SBL and SBR
 
+**11.01.18**
+
++ Reduce x-height and change vertical metrics
+
++ Draw a f h i j l n o r t u y
+
 <hr />
 
 ## To do
