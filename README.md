@@ -120,6 +120,10 @@
 
 + Draw a f h i j l n o r t u y
 
+**11.05.18**
+
++ Draw b d e k m p q s v
+
 <hr />
 
 ## To do
