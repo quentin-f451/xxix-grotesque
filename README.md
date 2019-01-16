@@ -100,6 +100,10 @@
 
 + Draw g w H I L N O
 
+**01.16.19**
+
++ Rework on the main structure
+
 <hr />
 
 ## To do
